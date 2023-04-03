@@ -1,2 +1,5 @@
 # TUI4ZNote-Tangible-User-Interface-for-Note-taking-in-Zotero
-TUI4ZNote is a novel Tangible User Interface tool designed to facilitate note-taking within Zotero. With TUI4ZNote, users can effortlessly collect and organize both handwritten and printed notes in their reference management system, making it easier to categorize and manage their research materials. 
+
+Tangible User Interfaces (TUIs) have emerged as a promising way to bridge the gap between the digital and physical worlds, allowing users to apply their real-world interaction skills to digital information. This quality makes TUIs appealing to a broad range of users, including academics, researchers, and those who use reference management tools like Zotero. TUI4ZNote is a novel Tangible User Interface tool designed to facilitate note-taking within Zotero. With TUI4ZNote, users can effortlessly collect and organize both handwritten and printed notes in their reference management system, making it easier to categorize and manage their research materials. This Tangible UI can be particularly helpful in streamlining the note-taking process, mitigating the issue of misplaced or lost handwritten notes. Ultimately, TUI4ZNote is a valuable tool for anyone seeking to write and cite papers or reports with greater efficiency and ease.
+
+
